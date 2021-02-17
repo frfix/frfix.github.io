@@ -1,0 +1,27 @@
+{
+  "name": "battleshipsjs",
+  "version": "1.0.0",
+  "description": "Морской Бой на чистом JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frfix/BattleShipsJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frfix/BattleShipsJS/issues"
+  },
+  "homepage": "https://github.com/frfix/BattleShipsJS#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/plugin-proposal-class-properties": "^7.12.13",
+    "@babel/preset-env": "^7.12.16",
+    "babel-loader": "^8.2.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
